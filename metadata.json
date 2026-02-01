@@ -1,0 +1,7 @@
+{
+  "name": "GlowDesk",
+  "description": "Professional virtual ring light solution for Windows and Web. Turns your screen into a studio-quality lighting source.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
